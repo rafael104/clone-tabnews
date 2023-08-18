@@ -1,0 +1,15 @@
+Curso.dev
+	Felipe Deschamps
+		Maquina Pessoal
+			VS Code
+				winget install -e --id CoreyButler.NVMforWindows
+				winget install -e --id OpenJS.NodeJS.LTS -v 18.14.2
+				Nao tem 
+					nvm alias default
+					nvm install (usando o nvmrc)
+					npm init
+						license MIT
+					npm install next@13.1.6
+					npm install react@18.2.0
+					npm install react-dom@18.2.0
+				
